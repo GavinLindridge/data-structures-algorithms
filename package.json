@@ -1,0 +1,14 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Gavin Lindridge",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
