@@ -1,0 +1,3 @@
+## Time Complexity
+
+The time complexity of the `nestedEvenSum` function is O(n), where n is the total number of key-value pairs in the object, including those within nested objects. The function iterates over each key-value pair in the object. For every value that is an object, the function recursively calls itself, thereby visiting every nested object and its elements exactly once. This makes the time complexity linear in terms of the number of elements (key-value pairs) processed. The recursive nature of the function does not add additional complexity because each element is handled once.
