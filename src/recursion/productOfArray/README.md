@@ -9,6 +9,6 @@ productOfArray([1, 2, 3, 10])
 // => 1 * 2 * 3 * 10 * 1 = 60
 ```
 
-## Complexity
+## Time Complexity
 
 The time complexity of the productOfArray function is O(n), where n is the length of the nums array. This is because the function recursively calls itself nums.length times.

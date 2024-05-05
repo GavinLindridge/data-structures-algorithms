@@ -12,6 +12,6 @@ factorial(7)
 // => 7 * 6 * 5 * 4 * 3 * 2 * 1 * 1 = 5040
 ```
 
-## Complexity
+## Time Complexity
 
 The time complexity of the factorial function is O(n), where n is the input number. This is because the function recursively calls itself num times.
